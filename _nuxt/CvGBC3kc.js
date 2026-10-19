@@ -1,0 +1,1 @@
+import{B as e,W as t,p as n}from"./CQ74b3cF.js";import{a as r}from"#entry";var i={},a={class:`blank-layout`};function o(r,i){return e(),n(`div`,a,[t(r.$slots,`default`)])}var s=r(i,[[`render`,o]]);export{s as default};
